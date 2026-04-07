@@ -14,3 +14,8 @@ https://www.virustotal.com/gui/file/4c7d3dfcfac87a7d8fbce5fd6f5103f049bf65d01828
 
 Enjoy the use of it, should easy to use and understand.
 
+
+
+Final notes:
+If you have dotnet 6.0 downloaded you can just download from github repos
+if you dont have it, i would reccomend to download from the google drive link or download dotnet as requested once you load in the program and try to create a shortcut
