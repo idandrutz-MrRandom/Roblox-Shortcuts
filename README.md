@@ -8,5 +8,9 @@ well my answer is, its self contained and downloads libraries if you dont have t
 
 Another question you might ask, Why is it getting flagged?
 i have no fricking clue.
+here you could see that a real virus scanner doesnt find anything; because theres nothing there
+https://www.virustotal.com/gui/file/4c7d3dfcfac87a7d8fbce5fd6f5103f049bf65d018285d4cf255f62ee086ca9e
+
 
 Enjoy the use of it, should easy to use and understand.
+
