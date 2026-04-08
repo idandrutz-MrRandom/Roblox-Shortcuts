@@ -1,7 +1,7 @@
 Hm, i got nothing to say
 as a simple explenation, if you want the working product and you have .net pre installed you can easily access it in the RobCut.exe file
 if not, this google drive link should work:
-https://drive.google.com/file/d/1G6mlG_RE5SRvYfPOTq5QlW7JbjkWlfwm/view?usp=sharing
+https://drive.google.com/file/d/17s2M-kfQ64ANIHaBb4VNUk8ApLAqnExH/view?usp=sharing
 
 If you ask why is it so heavy?
 well my answer is, its self contained and downloads libraries if you dont have them.
